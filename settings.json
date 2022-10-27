@@ -1,0 +1,24 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "terminal.integrated.fontFamily": "Fantasque Sans Mono",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "Fantasque Sans Mono",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 12,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.python",
+    "terminal.integrated.fontSize": 13,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Cobalt2"
+}
